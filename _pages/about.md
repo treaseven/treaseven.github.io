@@ -22,8 +22,6 @@ My interest lies in computer network architecture. Now I am working on TCP Offlo
 
 Publications
 ======
-- [Global-view based Task Migration for Deep Learning Processor](https://ieeexplore.ieee.org/abstract/document/9644891/authors#authors)
-
-  Jinyu Cheng, **Kai Zhao**, Yuanchao Xu.
-  
+- [Global-view based Task Migration for Deep Learning Processor](https://ieeexplore.ieee.org/abstract/document/9644891/authors#authors)<br>
+  Jinyu Cheng, **Kai Zhao**, Yuanchao Xu.<br>
   In ISPA 2021.
