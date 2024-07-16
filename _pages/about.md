@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 -----
-Welcome to My Homepage. I'm Kai Zhao(赵凯), a first-year Ph.D. student at National University of Defense Technology, advise by Prof.Liquan Xiao. Before my Ph.D. journey, I obtained my Bachelor's degree from Captial Normal University, advised by Prof. Yuanchao Xu.
+Welcome to My Homepage. I'm Kai Zhao(赵凯), a first-year Ph.D. student at National University of Defense Technology, advise by Prof. Liquan Xiao. Before my Ph.D. journey, I obtained my Bachelor's degree from Capital Normal University, advised by Prof. Yuanchao Xu.
 
 I like Kpop and watching Korean dramas😍😍😍. This is my Github homepage. Feel free to explore and learn more about me and my projects.
 
